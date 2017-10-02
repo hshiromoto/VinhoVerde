@@ -1,0 +1,4 @@
+*.csv
+*.png
+*.names
+python/red_wine.py
